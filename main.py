@@ -180,6 +180,13 @@ while currLevel <= 50 and running:
     screen.blit(setting, setting_rect)
     screen.blit(gold_text, (125, 500))
 
+    pygame.draw.rect(screen, (0, 128, 255), button_rect2)
+    button_text = font.render(f"Upgrade Click Damage: {upgrade_cost}", True, (255, 255, 255))
+    screen.blit(button_text, (300, 60))
+
+    pygame.draw.rect(screen, (255, 0, 0), back_button_rect)
+    screen.blit(back_button_text, (655, 60))
+
     for i, button_rect in enumerate(adventurer_buttons):
         adventurer = adventurers[i]
         if not adventurer.unlocked:
@@ -201,13 +208,6 @@ while currLevel <= 50 and running:
         adventurer_image_rect.topright = (button_rect.x + button_width, button_rect.y)
         screen.blit(adventurer.image_path, adventurer_image_rect)
         screen.blit(button_text, (button_rect.x + 10, button_rect.y + 25))
-
-    pygame.draw.rect(screen, (0, 128, 255), button_rect2)
-    button_text = font.render(f"Upgrade Click Damage: {upgrade_cost}", True, (255, 255, 255))
-    screen.blit(button_text, (300, 60))
-
-    pygame.draw.rect(screen, (255, 0, 0), back_button_rect)
-    screen.blit(back_button_text, (655, 60))
 
     if currLevel % 10 != 0:
         screen.blit(monster.image, monster.rect)
