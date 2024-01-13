@@ -27,7 +27,7 @@ Welcome to the "Pygame-IDLE_Game" repository, featuring the captivating "Click C
 
 1. **Requirements:**
    - Ensure Python is installed.
-   - Install dependencies with `pip install -r requirements.txt`.
+   - [Pygame](https://www.pygame.org/): Version 2.1.0 or higher
 
 2. **Run the Game:**
    - Launch the game with `python main.py`.
