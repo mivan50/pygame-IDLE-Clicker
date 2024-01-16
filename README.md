@@ -2,39 +2,54 @@
 
 ![Click Conquest Logo](https://github.com/mivan50/pygame-IDLE-Clicker/blob/main/images/win%20cropped.png?raw=true)
 
-Welcome to the "Pygame-IDLE_Game" repository, featuring the captivating "Click Conquest," an idle game meticulously crafted using the Pygame library.
-
 ## About Click Conquest
 
-"Click Conquest" invites you to embark on an epic journey of strategic conquests and resource accumulation. In this idle game, your clicks hold the key to unlocking territories, amassing valuable resources, and unleashing powerful upgrades. Whether you're actively clicking or taking a break, the game continues to evolve, providing a seamless and enjoyable experience.
+"Click Conquest" is an idle game built with Pygame that offers a strategic experience centered around conquests and resource management. Players engage in the game by strategically clicking to unlock territories, gather resources, and access powerful upgrades. Whether actively playing or taking a break, the game evolves continuously, providing a seamless experience.
 
 ### Key Features:
 
-- **Pygame-Powered Excitement:** Immerse yourself in an engaging gaming experience with Pygame's dynamic graphics and interactivity.
+- **Pygame Graphics:** Experience dynamic graphics and interactivity powered by Pygame.
   
-- **Idle Gaming Mastery:** Strategize your clicks to conquer territories, accumulate resources, and unlock game-changing upgrades, even when you're away.
+- **Idle Gameplay:** Conquer territories, accumulate resources, and unlock upgrades even when idle.
   
-- **Strategic Gameplay:** Plan your conquests, maximize your resources, and strategize your way to victory.
+- **Strategic Depth:** Plan conquests, maximize resources, and strategize for victory.
   
-- **Sleek User Interface:** Enjoy a visually stunning and user-friendly interface that enhances your overall gaming experience.
+- **User-Friendly Interface:** Enjoy a visually appealing and intuitive interface.
 
 ## Screenshots and GIFs
 
-![Gameplay GIF 1](url-to-your-game-gif-1)
-![Gameplay GIF 2](url-to-your-game-gif-2)
+![Gameplay GIF 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBmZG4xOGljMXNqd3g2aTJleXJ6OGRvNWljMTlyZTh4c3VyZDcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHM6qckupweiy7gZKl/giphy-downsized-large.gif)
+![Gameplay GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2d2sxbGNva3gwam9vcmx0eHU3NzhxZGRwcXk5cTd3eDgwcmhhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADGmJh9qdSndLFq0ME/giphy-downsized-large.gif)
+
+## 🎥 Gameplay Video
+
+Watch a preview of "Click Conquest" on [YouTube](https://youtu.be/53RVJRJvhkU).
 
 ## 🚀 Getting Started
 
 1. **Requirements:**
    - Ensure Python is installed.
-   - [Pygame](https://www.pygame.org/): Version 2.1.0 or higher
 
-2. **Run the Game:**
-   - Launch the game with `python main.py`.
+2. **Install Pygame:**
+   - Install Pygame (Version 2.1.0 or higher) with:
 
+     ```bash
+     pip install pygame
+     ```
+
+3. **Run the Game:**
+   - Launch the game with:
+
+     ```bash
+     python main.py
+     ```
+
+## 📥 Download and Play
+
+Get the latest version of "Click Conquest" on [itch.io](https://elevens.itch.io/click-conquest).
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-Thank you for exploring "Pygame-IDLE_Game"! Embark on a journey with "Click Conquest" and enjoy the game!
+Explore "Pygame-IDLE_Game," embark on a journey with "Click Conquest," and enjoy the game!
