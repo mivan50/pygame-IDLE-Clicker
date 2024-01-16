@@ -18,8 +18,16 @@
 
 ## Screenshots and GIFs
 
-![Gameplay GIF 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBmZG4xOGljMXNqd3g2aTJleXJ6OGRvNWljMTlyZTh4c3VyZDcyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHM6qckupweiy7gZKl/giphy-downsized-large.gif)
-![Gameplay GIF 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2d2sxbGNva3gwam9vcmx0eHU3NzhxZGRwcXk5cTd3eDgwcmhhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADGmJh9qdSndLFq0ME/giphy-downsized-large.gif)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/tHM6qckupweiy7gZKl/giphy-downsized-large.gif" alt="Gameplay GIF 1" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRoanMxejl3dXJod21kdXhqaDhvbHhwMTZ0eXUxZGdsYTk4bHV0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADGmJh9qdSndLFq0ME/giphy-downsized-large.gif" alt="Gameplay GIF 2" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ## 🎥 Gameplay Video
 
